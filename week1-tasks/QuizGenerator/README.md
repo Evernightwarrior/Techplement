@@ -23,7 +23,7 @@ Quiz Generator is a command-line Java application that allows users to create an
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Techplement.git
+   git clone https://github.com/Evernightwarrior/Techplement.git
    cd Techplement/week1-tasks
    ```
 
